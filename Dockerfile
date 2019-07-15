@@ -1,6 +1,6 @@
 FROM php:7.2-apache
 
-ARG PHPIPAM_VERSION="1.3.2"
+ARG PHPIPAM_VERSION="1.4"
 
 WORKDIR /var/www/html/
 
